@@ -1,0 +1,4 @@
+discord-disnake==2.1.2
+disnake==2.4.0
+matplotlib==3.5.1
+jishaku==2.3.2
